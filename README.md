@@ -24,7 +24,7 @@ hct is compatible with multiple operating systems, offering complete flexibility
 
 To install the hct tool globally 💻
 ```bash
-npm install -g https://github.com/taboutsafredy/hct.git
+npm install -g https://github.com/cestfredy/hct.git
 ```
 
 ## Usage
